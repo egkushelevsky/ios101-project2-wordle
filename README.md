@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-(https://www.loom.com/share/764c71a51415482b8995c0b85a181517)
+https://www.loom.com/share/552a330e8dce4dfda85b771c77f15b64
 
 ## License
 
